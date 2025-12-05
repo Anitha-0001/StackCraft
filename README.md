@@ -12,7 +12,7 @@ This project serves as a hands-on **DevOps lab** designed to practice infrastruc
 StackCraft automates the provisioning and configuration of a social-network-style Java web application.  
 It simulates a real industry-grade architecture where multiple services collaboratively deliver the application experience.
 
-![Project Architecture](image.png)
+![Project Architecture](StackCraft Architecture.png)
 
 
 **Services included:**
